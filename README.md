@@ -19,6 +19,6 @@ I2S used to receive and transmit data between the microcontroller and the codec
 DMA and ping pong buffers used to offload calculations from the microcontroller  
 Reverb filter implemented with parameters varying based on ADC values  
 
-![Assembled PCB](Photos/PCB_Assembled.JPG "ASse PCB")
-![Complete PCB](Photos/PCB_Final.JPG "Complete PCB")
-![Empty PCB](Photos/PCB_Raw.JPG "Empty PCB")
+![Assembled PCB](Photos/PCB_Assembled.JPG "ASse PCB")  
+![Complete PCB](Photos/PCB_Final.JPG "Complete PCB")  
+![Empty PCB](Photos/PCB_Raw.JPG "Empty PCB")  
