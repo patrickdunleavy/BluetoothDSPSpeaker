@@ -2,7 +2,7 @@
 Real-time DSP PCB backpack for an STM32F446 Nucleo breakout board
 About the project:
 - Analog
-> Board is powered with 9V and uses two voltage regulators to achieve 5V and 3V3
+> Board is powered with 9V and uses two voltage regulators to achieve 5V and 3V3 //
 > NE5532 Op-amps chosen because of low noise, higher current capabilites and popularity in the audio industry
 > Op-amps were supplied with a single 5V rail, meaning every op-amp was biased with 2.5V to achieve maximum end-to-end amplification
 > Voltage followers used to establish 2.5V bias voltages for the left and right channels individually
