@@ -12,7 +12,7 @@ Another potentiometer used for the ADC hardware on the digital end
 Bluetooth reciever interfaced with resistors and buttons to allow the user to access the previous song, next song, and pause the song from on the board itself  
 Bypass caps for every IC, microcontroller power pins, and the codec  
 
-**Digital:**
+**Digital:**  
 STM32F446x ARM microprocessor used along with the STM32 Cube IDE  
 I2C driver written for the TLV320AIC23B Stereo Audio Codec  
 I2S used to receive and transmit data between the microcontroller and the codec  
